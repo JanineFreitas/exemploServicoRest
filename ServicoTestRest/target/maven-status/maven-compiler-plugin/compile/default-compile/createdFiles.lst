@@ -1,0 +1,3 @@
+br\com\rest\application\Application.class
+br\com\rest\model\Greeting.class
+br\com\rest\controller\GreetingController.class
